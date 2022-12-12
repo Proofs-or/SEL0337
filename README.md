@@ -22,7 +22,7 @@ Além da Raspberry Pi, do módulo de câmera, dos exemplos encontrados no site d
 Auxiliaram na confeção dos códigos:
 
 André Luiz Borges Barcellos - N°USP: 11215790
-Stéfano Kenji Fernandes Tamanaha - N°USP:
+Stéfano Kenji Fernandes Tamanaha - N°USP: 11882666
 
 #-----------Status do Projeto-----------#
 
